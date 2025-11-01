@@ -1,4 +1,5 @@
 # Banking-Customer-Analytics
+
 ### Overview
 
 The Banking Customer Analytics Project provides an in-depth analysis of a bank’s customer behavior, transaction patterns, branch performance, and employee operations using SQL and Power BI.
@@ -108,12 +109,99 @@ The project uses five main datasets:
 5.Find out the customers whose average transaction is higher than bank
 Overall average transaction amt.
 
-6. How are branches ranked based on total deposits in the last quarter?
-<img width="2185" height="776" alt="image" src="https://github.com/user-attachments/assets/96f9cea4-1a17-43bb-a24f-03c3dfa6503b" />
+6.How are branches ranked based on total deposits in the last quarter?
+
+
+###  Key Insights
+#### Customer Insights
+
+1.Mumbai has the highest number of customers; Mysuru the least — showing strong and weak market regions.
+
+2.Savings Accounts hold the highest average balance — key for revenue.
+
+3.Top customers like Vardaniya Tata hold major deposits; essential for relationship management.
+
+4.Wealthy but inactive customers (e.g., Ojas Kari) present untapped potential — engagement is needed.
+
+##### Transaction Insights
+
+1.Transfers dominate all transaction types — showing the rise of digital banking.
+
+2.May 2024 shows the highest transaction activity due to bonuses and seasonal spending.
+
+3.Ira Sur is the most active customer by transaction volume.
+
+##### Branch Insights
+
+1.Indus Silicon Valley Branch leads in total balance and transaction volume — the bank’s strongest branch.
+
+2.KMB Hitech City has the largest staff, showing high operations scale.
+
+3.Some branches have low staff but high traffic — indicating possible overwork.
+
+##### Employee Insights
+
+1.Senior employees contribute to operational stability and customer satisfaction.
+
+2.Branches with many new joiners may need training and management support.
+
+3.Cashiers form the largest workforce, reflecting strong service demand.
+
+##### Cross-Functional Insights
+
+1.High-balance + low-activity customers are profitable but under-engaged — prime for reactivation.
+
+2.High-transaction + high-balance customers represent long-term loyalty potential.
+
+3.Unusual transaction spikes may indicate fraud or system misuse.
 
 
 
+### Recommendations
 
+#### 1. Strengthen Customer Engagement
+
+1.Re-engage inactive high-balance customers with loyalty rewards or personalized offers.
+
+2.Offer cashback and bonus schemes to increase transaction activity.
+
+#### 2. Personalize Banking Services
+
+1.Use customer segmentation analytics to offer tailored products (premium savings, retirement plans, etc.).
+
+2.Prioritize high-value clients with premium support and exclusive benefits.
+
+#### 3. Boost Digital Banking
+
+1.Promote mobile and online transactions to reduce branch load.
+
+2.Educate older customers about digital platforms through tutorials and incentives.
+
+#### 4. Optimize Branch Operations
+
+1.Reward top-performing branches like Indus Silicon Valley.
+
+2.Reallocate employees based on workload balance.
+
+3.Investigate low-performing branches for local market issues.
+
+#### 5. Enhance Cross-Selling
+
+1.Target high-transaction customers for investment, credit card, or insurance offers.
+
+2.Bundle multiple services to improve customer retention.
+
+#### 6. Strengthen Risk & Fraud Detection
+
+1.Monitor unusual or repetitive transactions for potential fraud.
+
+2.Use analytics to implement real-time alerts for anomalies.
+
+#### 7. Expand Market Presence
+
+1.Focus on low-customer regions with local promotions and partnerships.
+
+2.Introduce digital-only branches to reduce operational costs.
 
 
 
